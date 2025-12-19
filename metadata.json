@@ -1,0 +1,8 @@
+{
+  "name": "Smart Classroom Roll-Call",
+  "description": "AI-powered classroom attendance app that uses video analysis to count students and manage roll-calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
